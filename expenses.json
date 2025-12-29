@@ -1,0 +1,14 @@
+[
+    {
+        "Date": "2025-12-29",
+        "Amount": 40000.0,
+        "Category": "Travel",
+        "Note": "We had so much fun"
+    },
+    {
+        "Date": "2025-12-29",
+        "Amount": 36000.0,
+        "Category": "Laptop",
+        "Note": "bought a new laptop"
+    }
+]
